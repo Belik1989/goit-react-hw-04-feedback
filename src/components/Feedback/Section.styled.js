@@ -12,7 +12,7 @@ export const Title = styled.h2`
   }
 `;
 
-export const FeetbackBlock = styled.div`
+export const FeedbackBlock = styled.div`
   display: block;
   background: rgb(170, 142, 116);
   border-radius: 8px;
